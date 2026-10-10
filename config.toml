@@ -1,0 +1,4 @@
+echo '[general]' > .streamlit/config.toml
+echo 'email = ""' >> .streamlit/config.toml
+echo '[browser]' >> .streamlit/config.toml
+echo 'gatherUsageStats = false' >> .streamlit/config.toml
