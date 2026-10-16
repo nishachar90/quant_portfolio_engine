@@ -27,8 +27,8 @@ sudo apt install git python3-pip python3-venv -y
 Download the project to your local machine and navigate into the folder:
 
 ```bash
-git clone https://github.com/nishachar90/nifty_quant_screener.git
-cd nifty_quant_screener
+git clone https://github.com/nishachar90/quant_portfolio_engine.git
+cd quant_portfolio_engine
 ```
 
 ### Step 3: Create & Activate a Virtual Environment
